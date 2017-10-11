@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_now_playing">NowPlayingActivity</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+    <string name="library_description">This activity displays all the songs that the user has on the device. The songs are displayed in a list and display various pieces of information such as the artist name and duration. Clicking on a song takes the user to the Now Playing activity and starts playing the clicked song.</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="payments">Payments</string>
+    <string name="now_playing_description">This activity will be used to display the song that it currently playing. It will have a seekbar to show the song on a timeline and allow users to go to a particular spot in the timeline if the wish to. Additionally, the users will also be able Play/Pause, stop, skip forward and backward if they wish to. The activity will also display album art if available.</string>
+    <string name="library">Library</string>
+    <string name="payments_description">This activity helps users purchase paid functionality. This functionality can be a subscription to music streaming similar to one provided by Spotify or to remove apps. For the purchases, we can use Google Play Billing Library. This library helps query for items that are available for purchase and then purchase an item. It also helps implement subscriptions which will be very useful for the model of this app.</string>
+</resources>
